@@ -1,5 +1,5 @@
 # 72 Point Asset Management Reference Application
-<a href="/Alexandra-Hernandez-CV.pdf" target="_blank">Click here to access my CV.</a>
+<a href="https://alexavndra.github.io/72-point-statements/Alexandra-Hernandez-CV.pdf" target="_blank">Click here to access my CV.</a>
 
 ## Positions desired
 1. <a href="https://careers.point72.com/CSJobDetail?jobName=quantitative-software-developer-intern&jobCode=CSS-0011537&retURL=/CSCareerSearch" target="_blank">Quantitative Software Developer Intern</a>
