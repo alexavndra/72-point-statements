@@ -1,7 +1,7 @@
 # <span style="color:#4c956c">72 Point Asset Management Reference Application</span>
 ## <span style="color:#4c956c">CV and Contact Information</span>
 <a href="https://alexavndra.github.io/72-point-statements/Alexandra-Hernandez-CV.pdf" target="_blank" style="color:#507399"><ins>Click this text here to access my CV (it will open in a new window).</ins></a> <br/>
-**Email**: [alexavndrarh@gmail.com]("mailto:alexavndrarh@gmail.com")
+**Email**: [alexavndrarh@gmail.com](mailto:alexavndrarh@gmail.com)
 
 ## <span style="color:#4c956c">Positions desired</span>
 Click the names provided to go to the respective listings; will also open in a new window.
